@@ -2,7 +2,7 @@
 
 ## 🎯 Project Objective
 
-Build an end-to-end **regression model** to predict housing prices based on property features of the local city i live, Madrid.
+Build an end-to-end **regression model** to predict housing prices based on property features of the local city i live in, Madrid.
 
 This project is part of my Data & AI portfolio and aims to demonstrate a complete workflow:
 from data loading and cleaning to feature engineering, model training, evaluation, and result reporting.
